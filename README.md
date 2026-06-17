@@ -48,7 +48,7 @@ This project simulates a complete assignment workflow on the frontend with separ
 Clone the repository:
 
 ```bash
-git clone https://github.com/aadarshrajput04/student-assignment-sys-react
+git clone https://github.com/aadarsh2006ak/student-assignment-sys-react
 ```
 
 Move into the project folder:
